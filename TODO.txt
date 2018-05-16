@@ -1,0 +1,8 @@
+- Create a GUI application around it using javascript framework nodeJS/AngularJS
+	- User should be able to select the features he wants to collect
+	- User should be able to upload the xml report to the web
+	- The report should be displayed in html format
+
+- vSphere 6.0 support
+
+- Windows support
