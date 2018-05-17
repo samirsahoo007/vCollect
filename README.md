@@ -1,4 +1,5 @@
 # vCollect
+Contact: samir.sahoo007@gmail.com
 
 vCollect gathers various information from your vCenter environment. It uses this information to generate a xml report. To view the report in html format you can upload this xml report to the SORT website, where you can view, analyze or share them with others.
 
